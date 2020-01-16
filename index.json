@@ -1,6 +1,8 @@
 {
   "title": "Enel MongoDB scenario",
   "description": "A tutorial on MongoDB",
+  "difficulty": "Beginner",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
@@ -16,9 +18,10 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
-  },
+    "uilayout": "terminal",
+	"uimessage1": "\u001b[32_Your Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
+  },s
   "backend": {
-    "imageid": "node"
+    "imageid": "ubuntu1804"
   }
 }
