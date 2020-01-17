@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
 touch test
-sudo apt-get install -y mongodb
+apt update
+apt install -y mongodb
 touch test2
