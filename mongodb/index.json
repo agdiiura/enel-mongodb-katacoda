@@ -7,12 +7,12 @@
     "steps": [
       {
         "title": "Step 1 - Pathway Files",
-        "text": "step1.md"
+        "text": "step1.md",
+        "courseData": "setting.sh"
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "courseData": "setting.sh"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
