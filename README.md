@@ -1,2 +1,2 @@
 # enel-mongodb-katacoda
-A repository for mongodb katacoda scenario
+A repository for MongoDB scenario.
